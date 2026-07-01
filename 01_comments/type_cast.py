@@ -1,3 +1,11 @@
+# You are given a list containing mixed data types (strings, floats, integers, and booleans).
+# Write a for loop to:
+# Filter out all boolean values.
+# Convert numeric strings into integers.
+# Multiply all resulting numbers by 2.
+# Store the results in a new list.
+
+
 data = [10, "20", True, 3.5, False, "apple"]
 
 # clean and process data.
