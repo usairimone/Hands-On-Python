@@ -1,3 +1,6 @@
+# Write a Python program to check whether a given number is even or odd using boolean variables.
+
+
 # Return even if condition is true
 def even(number):
     return (number % 2 == 0)

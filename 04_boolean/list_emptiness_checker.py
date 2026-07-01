@@ -1,3 +1,6 @@
+# Write a Python function that checks whether a given list is empty or not using boolean logic.
+
+
 # checks list is empty or not
 def empty(li):
     if li == []:

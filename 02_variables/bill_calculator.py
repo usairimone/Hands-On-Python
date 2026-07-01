@@ -1,3 +1,11 @@
+# Create variables for three items with their prices (use floats).
+# Calculate:
+# Total amount
+# GST (18%)
+# Final amount
+# Print a formatted bill.
+
+
 title = "Bill"
 print(f"{title:-^60}")
 # initialize float values

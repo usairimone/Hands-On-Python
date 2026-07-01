@@ -1,3 +1,12 @@
+# Create variables for:
+# Student name (str)
+# Age (int)
+# Height in feet (float)
+# Grade (str)
+# Class monitor status (bool)
+# Print all information in a formatted profile card.
+
+
 # initialize name, age, height, grade, and is_class_monitor variables
 name = "Muhammad Usairim"
 age = 20

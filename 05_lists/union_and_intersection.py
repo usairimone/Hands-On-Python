@@ -1,3 +1,8 @@
+# Write a Python function to find the:
+# Union of two lists
+# Intersection of two lists
+
+
 # take user data and store in list_1.
 list_1 = []
 for i in range(3):

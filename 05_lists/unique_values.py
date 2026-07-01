@@ -1,3 +1,6 @@
+# Write a Python program to extract all unique values from a list.
+
+
 # list with integer datatypes.
 li = [12, 5, 8, 12, 3, 5, 19, 8, 7, 3, 25, 12, 7, 30, 5, 18, 25, 8, 3, 12]
 

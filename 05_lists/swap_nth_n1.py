@@ -1,3 +1,6 @@
+# Write a Python program to swap every n-th element with its corresponding (n+1)-th element in a list.
+
+
 # list with integer values
 li = [0, 1, 2, 3, 4, 5]
 

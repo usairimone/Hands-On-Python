@@ -1,3 +1,6 @@
+# Write a Python program to get a single string from two given strings, separated by a space, and swap the first two characters of each string.
+
+
 # takes input from user
 s = input("Enter two strings separated by a comma: ")
 # seperates strings using split function

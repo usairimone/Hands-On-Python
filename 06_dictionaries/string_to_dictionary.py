@@ -1,3 +1,6 @@
+# Write a Python program to create a dictionary from a given string.
+
+
 string = "usairim"
 
 # function to count character occurrences.

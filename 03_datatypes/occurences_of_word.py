@@ -1,3 +1,6 @@
+# Write a Python program to count the occurrences of each word in a given sentence.
+
+
 # function to find the occurrence of each word
 def occurences(sentence):
     # store the occurrences of each word in dictionary.

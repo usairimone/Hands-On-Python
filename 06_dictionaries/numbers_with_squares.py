@@ -1,3 +1,7 @@
+# Write a Python script to generate and print a dictionary that contains numbers between 1 and n in the following form:
+# (x, x * x)
+
+
 # takes integer dataype
 n = int(input("Enter a number : "))
 

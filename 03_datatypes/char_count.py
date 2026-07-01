@@ -1,3 +1,6 @@
+# Write a Python program to count the number of characters in a string.
+
+
 # function count character of input string
 def count(str):
     count = len(str)

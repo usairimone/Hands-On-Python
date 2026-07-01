@@ -1,3 +1,6 @@
+# Write a Python function to find the smallest element in a list.
+
+
 # lenght of input list
 lenght_list = int(input("Enter the lenght of list you want to push: "))
 

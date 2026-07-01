@@ -1,3 +1,6 @@
+# Write a Python program to map two lists into a dictionary.
+
+
 # frist list as a key in dictionary
 list_1 = [1,2,3,4,5]
 # second key as a value iin dictionary

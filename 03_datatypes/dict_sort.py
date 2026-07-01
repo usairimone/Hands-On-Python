@@ -1,3 +1,8 @@
+# Write a Python program to sort a dictionary by value in:
+# Ascending order
+# Descending order
+
+
 # dictonary with string values.
 dictionary = {
     3 : "ali",

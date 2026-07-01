@@ -1,3 +1,14 @@
+# Create three variables:
+# a = 1
+# b = 2
+# c = 3
+# Swap them so that:
+# a = 3
+# b = 1
+# c = 2
+# Print the values before and after swapping.
+
+
 # initialize three int varaibles
 a = 1
 b = 2

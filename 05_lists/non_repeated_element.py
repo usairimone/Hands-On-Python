@@ -1,3 +1,6 @@
+# Write a Python program to find the first non-repeated element in a list.
+
+
 # list with intger collection of data
 li = [12, 5, 8, 12, 3, 5, 19, 8, 7, 3, 25, 12, 7, 30, 5, 18, 25, 8, 3, 12]
 

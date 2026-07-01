@@ -1,3 +1,6 @@
+# Write a Python function that checks whether a given string is a palindrome (reads the same forward and backward) using boolean values.
+
+
 # checks palindrome condition
 def palindrome(str):
     return (str[0::] == str[::-1])

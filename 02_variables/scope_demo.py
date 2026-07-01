@@ -1,3 +1,10 @@
+# Write a Python program that demonstrates the use of:
+# global
+# nonlocal
+# Modify a global counter and an enclosing function variable inside nested functions.
+# Observe how the values change across multiple function calls.
+
+
 # global counter.
 counter = 6 
 

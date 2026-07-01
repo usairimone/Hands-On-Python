@@ -1,3 +1,11 @@
+# Write a Python program that validates a user's password using boolean expressions.
+# The password should satisfy criteria such as:
+# Minimum length requirement
+# Contains at least one number
+# Contains at least one special character
+# Any other validation rules you consider necessary
+
+
 # function to checks the digits and secial characters in password
 def validator(password):
     lenght = len(password) >= 10

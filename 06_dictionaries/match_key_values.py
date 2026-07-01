@@ -1,3 +1,6 @@
+# Write a Python program to compare two dictionaries and identify matching key-value pairs.
+
+
 # initializing two dictionaries.
 dict_1 = {1: "akram", 2: "ali", 3: "ahmad"}
 dict_2 = {4: "hassan", 1: "bilal"}

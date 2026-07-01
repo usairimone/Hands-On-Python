@@ -1,3 +1,6 @@
+# Write a Python program to check whether a given key exists in a dictionary.
+
+
 # dictionary with string values
 dictionary = {
     1 : "usairim",
